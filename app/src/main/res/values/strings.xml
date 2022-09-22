@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tokenlab Challenge</string>
+    <string name="cd_movie_img">Movie Icon</string>
+    <string name="cd_rating_icon">Star rating icon</string>
+    <string name="cd_backdrop_img">Movie backdrop</string>
+    <string name="cd_movie_poster">Movie poster</string>
+    <string name="text_original_language">Original language: %s</string>
+    <string name="txt_error_see_details">See details</string>
+    <string name="error_message_no_internet">Failed to reach server, check your internet connection.</string>
+    <string name="error_message_generic">Oops, something went wrong.</string>
+    <string name="error_no_details">Couldn\'t get details about error. Please, restart the application.</string>
+    <string name="error_message_movie_not_found">No detailed movie found</string>
+</resources>
